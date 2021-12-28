@@ -13,7 +13,7 @@ conda activate tutorial
 ```bash
 mkdir models
 ```
-2. 学習済みモデル、データを保存,そして解凍
+2. 学習済みモデルを保存,modelsフォルダの中で解凍
 
 https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0
 

@@ -1,0 +1,2 @@
+# ImageCaption-SAMPLE
+Pytorch tutorialにある画像キャプション生成部分を使い勝手が良いように改良したもの
